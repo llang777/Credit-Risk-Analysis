@@ -3,10 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Overview</title>
 </head>
 <body>
 
-<h1> Project Overview </h1>
+<h1>Project Overview</h1>
 
 <p>The goal of this project is to create and analyze a machine learning model that can assess the creditworthiness of borrowers using historical lending data from a peer-to-peer lending services company. By evaluating various metrics, including accuracy, precision, recall, and F1-score, we aim to gain insights into the model's performance and its suitability for deployment in the company's lending operations.</p>
 
@@ -14,10 +15,10 @@
 
 <ul>
   <li><strong>Accuracy:</strong> The model has an accuracy score of approximately 99.39%, indicating a strong ability to correctly classify borrowers' creditworthiness.</li>
-  <li><strong>Precision (Label 0 - Healthy Loan):</strong> Precision is perfect at 100%.</li>
-  <li><strong>Precision (Label 1 - High-Risk Loan):</strong> Precision is slightly lower at 87%, suggesting there are some instances where healthy loans are incorrectly classified as high risk.</li>
-  <li><strong>Recall (Label 0 - Healthy Loan):</strong> Recall is perfect at 100%, meaning the model captures all instances of healthy loans in the dataset.</li>
-  <li><strong>Recall (Label 1 - High-Risk Loan):</strong> Recall is high at 95%, indicating the model effectively identifies most of the high-risk loans in the dataset.</li>
+  <li><strong>Precision</strong> (Label 0 - Healthy Loan): Precision is perfect at 100%.</li>
+  <li><strong>Precision</strong> (Label 1 - High-Risk Loan): Precision is slightly lower at 87%, suggesting there are some instances where healthy loans are incorrectly classified as high risk.</li>
+  <li><strong>Recall</strong> (Label 0 - Healthy Loan): Recall is perfect at 100%, meaning the model captures all instances of healthy loans in the dataset.</li>
+  <li><strong>Recall</strong> (Label 1 - High-Risk Loan): Recall is high at 95%, indicating the model effectively identifies most of the high-risk loans in the dataset.</li>
 </ul>
 
 <h2>Summary and Recommendation</h2>
