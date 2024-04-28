@@ -15,10 +15,10 @@
 
 <ul>
   <li><strong>Accuracy:</strong> The model has an accuracy score of approximately 99.39%, indicating a strong ability to correctly classify borrowers' creditworthiness.</li>
-  <li><strong>Precision:</strong> (Label 0 - Healthy Loan): Precision is perfect at 100%.</li>
-  <li><strong>Precision:</strong> (Label 1 - High-Risk Loan): Precision is slightly lower at 87%, suggesting there are some instances where healthy loans are incorrectly classified as high risk.</li>
-  <li><strong>Recall:</strong> (Label 0 - Healthy Loan): Recall is perfect at 100%, meaning the model captures all instances of healthy loans in the dataset.</li>
-  <li><strong>Recall:</strong> (Label 1 - High-Risk Loan): Recall is high at 95%, indicating the model effectively identifies most of the high-risk loans in the dataset.</li>
+  <li><strong>Precision</strong> (Label 0 - Healthy Loan): Precision is perfect at 100%.</li>
+  <li><strong>Precision</strong> (Label 1 - High-Risk Loan): Precision is slightly lower at 87%, suggesting there are some instances where healthy loans are incorrectly classified as high risk.</li>
+  <li><strong>Recall</strong> (Label 0 - Healthy Loan): Recall is perfect at 100%, meaning the model captures all instances of healthy loans in the dataset.</li>
+  <li><strong>Recall</strong> (Label 1 - High-Risk Loan): Recall is high at 95%, indicating the model effectively identifies most of the high-risk loans in the dataset.</li>
 </ul>
 
 <h2>Summary and Recommendation</h2>
