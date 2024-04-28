@@ -1,20 +1,41 @@
-The goal of this project was to create and analyze a machine learning model that can assess the creditworthiness of borrowers using historical lending data from a peer to peer lending services company. By assessing different metrics, including accuracy, precision, recall, and F1-score, we can begin to see insights into the model's performancce and suitability for use in the company's lending operations.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Overview</title>
+</head>
+<body>
 
-Performance Metrics:
-Accuracy: The model has an accuracy score of ~99.39%, indicating a strong ability to correctly classify borrowers' creditworthiness.
-Precision: (Label 0 - Healhy Loan) Precision is perfect at 100%
-Precision: (Label 1 - High Risk Loan) Precision is slightly lower at 87%, suggesting there are some instances where healthy loans are incorrectly classified as high risk.
-Recall: (Label 0 - Healthy Loan) Recall is perfect at 100%, meaning the model captures all instances of healthy loans in the dataset.
-Recall: (Label 1 - High RIsk Loan) Recall is high at 95%, indicating the model effectively identifies most of the high risk loans in the dataset.
+<h1> Project Overview </h1>
 
-Summary and Reccomendation:
-The machine learning model demonstrates outstanding performance in accurately classifying borrowers creditworthiness, achieving high accuracy, precision, and recall scores. It excells in identifying both healhty and high risk loans, with minimal misclassifications. This model is highly reccomended for use by the company in its lending operations.
+<p>The goal of this project is to create and analyze a machine learning model that can assess the creditworthiness of borrowers using historical lending data from a peer-to-peer lending services company. By evaluating various metrics, including accuracy, precision, recall, and F1-score, we aim to gain insights into the model's performance and its suitability for deployment in the company's lending operations.</p>
 
-Reccomendation Justification:
-High Accuracy: Model achieves accuracy score of ~99.39%, indicating high ability to make predictions with confidence.
-Robust Precision and Recall: Model exhibits excellent precision and recall scores for both healthy and high risk loans, with minimal false positives and negatives.
-Real World Applicability: With its strong performance on historical lending data, the model is highly likely to generalize well to new loan applications, providing usabile information to support decision making in the company's lending process.
-Risk MItigation: By accurately identifying high risk loans, the model can help the company minimize potential losses and mitigate risks associated with lending to less creditworthy borrowers.
-Enhanced Efficency: Deploying this model would streamline the loan approval process, reducing manual review efforts and expediting loan decisions, leading to improved operational efficency and customer satisfaction.
+<h2>Performance Metrics</h2>
 
-Overall, the model's exceptional performance metrics and its potential to enhance decision making and risk management justify its reccomendation for depoloyment in the company's lending operations.
+<ul>
+  <li><strong>Accuracy:</strong> The model has an accuracy score of approximately 99.39%, indicating a strong ability to correctly classify borrowers' creditworthiness.</li>
+  <li><strong>Precision (Label 0 - Healthy Loan):</strong> Precision is perfect at 100%.</li>
+  <li><strong>Precision (Label 1 - High-Risk Loan):</strong> Precision is slightly lower at 87%, suggesting there are some instances where healthy loans are incorrectly classified as high risk.</li>
+  <li><strong>Recall (Label 0 - Healthy Loan):</strong> Recall is perfect at 100%, meaning the model captures all instances of healthy loans in the dataset.</li>
+  <li><strong>Recall (Label 1 - High-Risk Loan):</strong> Recall is high at 95%, indicating the model effectively identifies most of the high-risk loans in the dataset.</li>
+</ul>
+
+<h2>Summary and Recommendation</h2>
+
+<p>The machine learning model demonstrates outstanding performance in accurately classifying borrowers' creditworthiness, achieving high accuracy, precision, and recall scores. It excels in identifying both healthy and high-risk loans, with minimal misclassifications. This model is highly recommended for use by the company in its lending operations.</p>
+
+<h3>Recommendation Justification</h3>
+
+<ul>
+  <li><strong>High Accuracy:</strong> The model achieves an accuracy score of approximately 99.39%, indicating a high ability to make predictions with confidence.</li>
+  <li><strong>Robust Precision and Recall:</strong> The model exhibits excellent precision and recall scores for both healthy and high-risk loans, with minimal false positives and negatives.</li>
+  <li><strong>Real-world Applicability:</strong> With its strong performance on historical lending data, the model is highly likely to generalize well to new loan applications, providing usable information to support decision-making in the company's lending process.</li>
+  <li><strong>Risk Mitigation:</strong> By accurately identifying high-risk loans, the model can help the company minimize potential losses and mitigate risks associated with lending to less creditworthy borrowers.</li>
+  <li><strong>Enhanced Efficiency:</strong> Deploying this model would streamline the loan approval process, reducing manual review efforts and expediting loan decisions, leading to improved operational efficiency and customer satisfaction.</li>
+</ul>
+
+<p>Overall, the model's exceptional performance metrics and its potential to enhance decision-making and risk management justify its recommendation for deployment in the company's lending operations.</p>
+
+</body>
+</html>
