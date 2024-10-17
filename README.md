@@ -35,7 +35,7 @@
   <li><strong>Enhanced Efficiency:</strong> Deploying this model would streamline the loan approval process, reducing manual review efforts and expediting loan decisions, leading to improved operational efficiency and customer satisfaction.</li>
 </ul>
 
-<p>Overall, the model's exceptional performance metrics and its potential to enhance decision-making and risk management justify its recommendation for deployment in the company's lending operations.</p>
+<p>The model's performance metrics justify its recommendation for deployment in the company's lending operations.</p>
 
 </body>
 </html>
